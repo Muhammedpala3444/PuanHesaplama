@@ -1,0 +1,10 @@
+D:\MuhammedCalismalar2\TYT\TYT\bin\Debug\TYT.exe.config
+D:\MuhammedCalismalar2\TYT\TYT\bin\Debug\TYT.exe
+D:\MuhammedCalismalar2\TYT\TYT\bin\Debug\TYT.pdb
+D:\MuhammedCalismalar2\TYT\TYT\obj\Debug\TYT.csprojAssemblyReference.cache
+D:\MuhammedCalismalar2\TYT\TYT\obj\Debug\TYT.Form1.resources
+D:\MuhammedCalismalar2\TYT\TYT\obj\Debug\TYT.Properties.Resources.resources
+D:\MuhammedCalismalar2\TYT\TYT\obj\Debug\TYT.csproj.GenerateResource.cache
+D:\MuhammedCalismalar2\TYT\TYT\obj\Debug\TYT.csproj.CoreCompileInputs.cache
+D:\MuhammedCalismalar2\TYT\TYT\obj\Debug\TYT.exe
+D:\MuhammedCalismalar2\TYT\TYT\obj\Debug\TYT.pdb
